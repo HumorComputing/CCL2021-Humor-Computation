@@ -2,7 +2,7 @@
 
 CCL2021，“小牛杯”幽默计算任务数据发布
 
-任务说明参见CCL2021官方网站：http://cips-cl.org/static/CCL2020/humorcomputation.html    #####需要修改网址
+任务说明参见CCL2021官方网站：http://cips-cl.org/static/CCL2021/cclEval/humorcomputation/index.html
 
 任务每个阶段的排名在该项目公布。
 
